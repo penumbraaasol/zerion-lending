@@ -2,7 +2,7 @@
 name: zerion-lending
 description: >
   Borrow tokens against crypto collateral on Aave v3 and Morpho using Zerion CLI for portfolio checks
-  and position monitoring. Covers the full lifecycle: research rates, supply collateral, borrow,
+  and accurate position monitoring. Covers the full lifecycle: research rates, supply collateral, borrow,
   monitor health factor, repay, and withdraw. Use when the user asks to borrow, take a loan,
   leverage a position, get liquidity without selling, or manage an existing debt position on-chain.
 license: MIT
